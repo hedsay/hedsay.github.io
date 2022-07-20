@@ -3,12 +3,12 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hexo</title>
+    <title>诸葛短智&#39;s Blog</title>
     <link>http://example.com/</link>
     
     <image>
       <url>http://example.com/icon.png</url>
-      <title>Hexo</title>
+      <title>诸葛短智&#39;s Blog</title>
       <link>http://example.com/</link>
     </image>
     
