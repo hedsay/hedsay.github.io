@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-07-18T14:20:43.443Z</updated>
+  <updated>2022-07-21T14:49:03.148Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,23 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2022/07/18/hello-world/"/>
-    <id>http://example.com/2022/07/18/hello-world/</id>
-    <published>2022-07-18T14:24:17.396Z</published>
-    <updated>2022-07-18T14:20:43.443Z</updated>
+    <title>滕王阁序</title>
+    <link href="http://example.com/2022/07/21/teng-wang-ge-xu/"/>
+    <id>http://example.com/2022/07/21/teng-wang-ge-xu/</id>
+    <published>2022-07-21T14:46:51.000Z</published>
+    <updated>2022-07-21T14:49:03.148Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;豫章故郡，洪都新府。星分翼轸，地接衡庐。襟三江而带五湖，控蛮荆而引瓯越。物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。雄州雾列，俊采星驰。台隍枕夷夏之交，宾主尽东南之美。都督阎公之雅望，棨戟遥临；宇文新州之懿范，襜帷暂驻。十旬休假，胜友如云；千里逢迎，高朋满座。腾蛟起</summary>
         
       
     
     
     
+    <category term="诗歌" scheme="http://example.com/categories/%E8%AF%97%E6%AD%8C/"/>
+    
+    
+    <category term="诗歌" scheme="http://example.com/tags/%E8%AF%97%E6%AD%8C/"/>
     
   </entry>
   
